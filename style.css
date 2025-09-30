@@ -1,0 +1,43 @@
+body{
+    background-image: url("kepek/hatterem3.jpg");
+    margin:0;
+   
+}
+#tartalom{
+    background-color: white;
+    font-size: 10px;
+    color: #272f32;
+    font-family: Verdana;
+    width: 600px;
+    padding: 10px;
+    margin:auto
+}
+#bekezdes {
+    text-align: justify;
+}
+.clearfix {
+    clear: both; 
+}
+img {
+    padding: 2px;                
+    border: 1px solid gray;       
+    margin: 10px;
+}
+#bal {
+    float: left;
+
+}
+#jobb{
+    float: right;
+}
+h1 {
+    border-bottom:1px solid #272f32;
+    font-size: 20pt;
+    font-family: 'Showcard Gothic';
+    letter-spacing: 1px;
+}
+h2 {
+    font-size: 20pt;
+    font-family: 'Showcard Gothic';
+    letter-spacing: 2px;
+}
