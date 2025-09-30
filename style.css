@@ -12,7 +12,7 @@ body{
     padding: 10px;
     margin:auto
 }
-#bekezdes {
+.bekezdes {
     text-align: justify;
 }
 .clearfix {
@@ -23,7 +23,7 @@ img {
     border: 1px solid gray;       
     margin: 10px;
 }
-#bal {
+.bal {
     float: left;
 
 }
